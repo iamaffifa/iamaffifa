@@ -4,7 +4,7 @@
 
 I turn satellite, raster and vector data into analysis-ready, cloud-native datasets, serve them through OGC web services, and build AI on top so that people can query maps and spatial data in plain English.
 
-6+ years in geospatial engineering and Earth observation · MPhil Remote Sensing & GIS (Gold Medalist) · open to relocation to Germany / Europe
+6+ years in geospatial engineering and Earth observation · MPhil Remote Sensing & GIS (Gold Medalist)
 
 ## What I work on
 
@@ -36,7 +36,7 @@ Most of my production work lives in private client and company repositories. I'm
 
 ## Background
 
-- **Senior Geospatial Data Engineer**, Infotech Groups (2026–present): geospatial data pipelines and AI query layers; leading a team of 7 building an on-premise text-to-SQL assistant on open-source LLMs
+- **Senior Geospatial Data Engineer**, Confidential (2026–present): geospatial data pipelines and AI query layers; leading a team of 7 building an on-premise text-to-SQL assistant on open-source LLMs
 - **GeoAI and GIS Developer**, FAAB AI (2023–2026): LLM-powered geospatial portals and RAG systems for clients in Sweden, the US and Malaysia
 - **Senior GIS Developer**, Spatial Stack (2021–2023): GeoServer-backed web GIS portals and EO ingestion pipelines
 - **ML / GIS Developer**, The Urban Unit (2020–2021): CNN models on Sentinel-2 and drone imagery for agriculture
