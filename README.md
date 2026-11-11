@@ -17,7 +17,6 @@ I turn satellite, raster and vector data into analysis-ready, cloud-native datas
 
 | Project | What it does | Stack |
 |---|---|---|
-| Flood risk data pipeline | Combined FEMA zones, a satellite flood-depth raster, the Copernicus GLO-30 DEM (STAC) and Overture Maps into a flood-risk dataset for 71,625 buildings; fixed 44.7% raster NoData and CRS mismatches | PostGIS, GeoPandas, rioxarray, STAC, GeoParquet, Docker |
 | Sentinel-2 crop health pipeline | Automated download, SNAP calibration, NDVI/NDWI per farm, COGs on S3, statistics in Redshift; 72% faster per scene (25–30 min → under 8) | Python, SNAP, COG, PostGIS, AWS |
 | Flood susceptibility dashboard | Flood zones from Sentinel-1 SAR + DEM over 12,500+ km², 670,000+ buildings in PostGIS, queried in plain English through a local LLM with SQL guardrails | Sentinel-1, PostGIS, Ollama, FastAPI, Leaflet |
 | GeoAI geospatial platform | GeoServer + PostGIS backend (WMS/WFS, tile caching, SLD) with LangChain agents and RAG that turn questions into spatial operations | GeoServer, Django, LangChain, Weaviate, React, Leaflet, AWS |
@@ -42,4 +41,4 @@ Most of my production work lives in private client and company repositories. I'm
 - **Senior GIS Developer**, Spatial Stack (2021–2023): GeoServer-backed web GIS portals and EO ingestion pipelines
 - **ML / GIS Developer**, The Urban Unit (2020–2021): CNN models on Sentinel-2 and drone imagery for agriculture
 
-[LinkedIn](https://linkedin.com/in/affifataskeen)
+[Portfolio](https://iamaffifa.github.io) · [LinkedIn](https://linkedin.com/in/affifataskeen)
