@@ -1,6 +1,9 @@
-# Hi, I'm Affifa Taskeen
-
-**Geospatial Data Engineer · GeoAI Engineer**
+<a href="https://iamaffifa.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="Affifa Taskeen: Geospatial Data Engineer and GeoAI Engineer. Click to view my portfolio." src="assets/banner-light.svg" width="100%">
+  </picture>
+</a>
 
 I turn satellite, raster and vector data into analysis-ready, cloud-native datasets, serve them through OGC web services, and build AI on top so that people can query maps and spatial data in plain English.
 
